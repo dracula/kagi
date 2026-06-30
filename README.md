@@ -1,9 +1,8 @@
 # Dracula for [Kagi](https://kagi.com)
 
-> A dark (and light) theme for [Kagi](https://kagi.com).
+> A dark & light theme for [Kagi](https://kagi.com).
 
 ![Homepage](screenshot/homepage-light-dark.png)
-
 
 ## Install
 
@@ -14,8 +13,8 @@ All instructions can be found at [draculatheme.com/kagi](https://draculatheme.co
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/kagi/graphs/contributors).
 
 | [![Visnes](https://github.com/visnes.png?size=100)](https://github.com/visnes) |
---------------------------------------------------------------------------------------------- |
-| [Visnes](https://github.com/Visnes) |
+| ------------------------------------------------------------------------------ |
+| [Visnes](https://github.com/Visnes)                                            |
 
 ## Community
 
