@@ -6,9 +6,11 @@
  * ▄ ██   ██ ██   ▄█▀██ ██    ██ ██ ██ ▄█▀██   █    ▄ ██  ██   ██ ██ ██ ██    ▄█▀██ ██   ██ ██
  * ▀██▀███▀ ▄█▀  ▄▀█▄██▄▀███▄▄▀██▀█▄██▄▀█▄██  █     ▀██▀  ▀█▄█▄██▄▀██▀█▄▀███▄▄▀█▄██▄█▀  ▄█▀███
  * Dracula + Alucard theme for Kagi Search by Visnes
- * https://github.com/Visnes/kagi-dracula
+ * https://github.com/dracula/kagi
+ * https://draculatheme.com/kagi
  * https://openkagi.com/themes/dracula
  */
+ 
 :root {
   --dr-blur: 8px;
   --dr-tint: 0.72;
